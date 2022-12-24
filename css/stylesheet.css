@@ -1,0 +1,33 @@
+h1{
+  font-size: 6rem;
+  text-align: center;
+  color: #4ECCA3;
+  font-family: 'Lobster', cursive;
+}
+
+h3{
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Lobster', cursive;
+  padding-left: : 330px;
+  padding-right: 70px;
+}
+
+.player1{
+    width: 50%;
+    float: left;
+
+}
+
+.player2{
+    width: 50%;
+    float: left;
+}
+
+img{
+  padding: 25px;
+}
+
+body{
+  background-color: #393E46;
+}
